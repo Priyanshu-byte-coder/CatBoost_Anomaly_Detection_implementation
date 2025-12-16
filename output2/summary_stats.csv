@@ -1,0 +1,2 @@
+Best_Accuracy_Algorithm,Best_Accuracy_Score,Best_F1_Algorithm,Best_F1_Score,Fastest_Training,Fastest_Inference,Average_Accuracy,Std_Accuracy
+CatBoostClassifier,0.97175,CatBoostClassifier,0.9715523917071595,Naive Bayes,Logistic Regression,0.8474291666666667,0.1380014125078677

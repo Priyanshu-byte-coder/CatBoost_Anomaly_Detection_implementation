@@ -49,7 +49,8 @@ catboost_info/
 
 # Dataset files (too large for GitHub)
 data/
-*.csv
+data/*.csv
+data/*.pcap
 *.pcap
 
 # Temporary outputs (if regenerated)
