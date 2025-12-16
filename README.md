@@ -107,7 +107,7 @@ pip install pandas numpy torch scikit-learn catboost matplotlib seaborn tqdm sci
 
 The dataset is **not included** in this repository due to its large size (~5.6 GB). Please download it from Kaggle:
 
-**Kaggle Dataset:** [Industrial Robotic Arm IMU Data (CASPER 1 and 2)](https://www.kaggle.com/datasets/hkayan/industrial-robotic-arm-imu-data-casper-1-and-2)
+**Kaggle Dataset:** [Industrial Robotic Arm IMU Data (CASPER 1 and 2)]([https://www.kaggle.com/datasets/hkayan/industrial-robotic-arm-imu-data-casper-1-and-2](https://ieee-dataport.org/documents/casper-context-aware-anomaly-detection-system-industrial-robotic-arms))
 
 ### Required Files
 
@@ -162,7 +162,7 @@ Results include mean values, standard deviations, and confidence intervals acros
 The **CASPER** (Cyber-physical Anomaly detection for Secure Programmable Edge-based Robots) dataset contains sensor data from industrial robotic arms with various fault conditions.
 
 **Dataset Details:**
-- **Source:** [Kaggle - Industrial Robotic Arm IMU Data]([https://www.kaggle.com/datasets/hkayan/industrial-robotic-arm-imu-data-casper-1-and-2](https://ieee-dataport.org/documents/casper-context-aware-anomaly-detection-system-industrial-robotic-arms))
+- **Source:** [Industrial Robotic Arm IMU Data]([https://www.kaggle.com/datasets/hkayan/industrial-robotic-arm-imu-data-casper-1-and-2](https://ieee-dataport.org/documents/casper-context-aware-anomaly-detection-system-industrial-robotic-arms))
 - **Size:** ~5.6 GB (CSV files)
 - **Format:** Preprocessed CSV files with sensor readings
 - **Content:** Multiple fault scenarios and normal operation data from robotic arm IMU sensors
