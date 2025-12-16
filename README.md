@@ -107,7 +107,7 @@ pip install pandas numpy torch scikit-learn catboost matplotlib seaborn tqdm sci
 
 The dataset is **not included** in this repository due to its large size (~5.6 GB). Please download it from Kaggle:
 
-**Kaggle Dataset:** [Industrial Robotic Arm IMU Data (CASPER 1 and 2)]([https://www.kaggle.com/datasets/hkayan/industrial-robotic-arm-imu-data-casper-1-and-2](https://ieee-dataport.org/documents/casper-context-aware-anomaly-detection-system-industrial-robotic-arms))
+**ieee dataport Dataset:** [Industrial Robotic Arm IMU Data (CASPER 1 and 2)]([https://ieee-dataport.org/documents/casper-context-aware-anomaly-detection-system-industrial-robotic-arms])
 
 ### Required Files
 
