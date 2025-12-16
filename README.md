@@ -12,9 +12,11 @@ This project implements a comprehensive fault detection system for robotic arms 
 .
 ├── final_multi_run.py                              # Main experimental framework
 ├── requirements.txt                                 # Python dependencies
+├── README.md                                        # Project documentation
 ├── .gitignore                                       # Git ignore rules
+├── GITHUB_UPLOAD_GUIDE.md                           # GitHub upload instructions
 │
-├── data/                                            # Dataset directory
+├── data/                                            # Dataset directory (NOT uploaded to GitHub)
 │   ├── arms.pcap                                   # Raw network packet capture (3.7 GB)
 │   ├── left_arm.csv                                # Left arm sensor data (1.8 GB)
 │   ├── right_arm.csv                               # Right arm sensor data (1.8 GB)
@@ -37,8 +39,7 @@ This project implements a comprehensive fault detection system for robotic arms 
 │   ├── validation_accuracy_comparison.png          # Validation accuracy comparison
 │   ├── final_analysis.png                          # Final analysis visualization
 │   ├── graph_1.png                                 # Additional visualization
-│   ├── graph_2.png                                 # Additional visualization
-│   └── self_supervised_model.pth                   # Trained SSL model weights
+│   └── graph_2.png                                 # Additional visualization
 │
 ├── multi_run_analysis_output/                      # Multi-run statistical analysis
 │   ├── CBC_all_runs_transposed.csv                # CatBoost all runs data
@@ -73,6 +74,11 @@ This project implements a comprehensive fault detection system for robotic arms 
 │   ├── SVM_comparison.tex
 │   ├── comprehensive_metrics_fixed.tex             # Comprehensive metrics table
 │   └── time_statistics.tex                         # Training/inference time table
+│
+└── testing_imbalancing_methods/                    # Experimental imbalance handling tests
+    ├── final.py                                    # Final imbalance testing script
+    ├── imbalance_comparison.py                     # Imbalance method comparison
+    └── results/                                    # Results from imbalance tests
 ```
 
 ## Features
